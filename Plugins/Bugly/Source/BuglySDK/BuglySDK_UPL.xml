@@ -16,7 +16,7 @@
 	</resourceCopies>
 
 	<soLoadLibrary>
-		<loadLibrary name="bugly" failmsg="bugly library not loaded and required!"/>
+		<loadLibrary name="Bugly" failmsg="Bugly library is not loaded and required!"/>
 	</soLoadLibrary>
 
 	<proguardAdditions>
