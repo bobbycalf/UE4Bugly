@@ -18,7 +18,7 @@
 	<soLoadLibrary>
 		<loadLibrary name="Bugly" failmsg="Bugly library is not loaded and required!"/>
 	</soLoadLibrary>
-
+	
 	<proguardAdditions>
 		<insert>
 			-dontwarn com.tencent.bugly.**
